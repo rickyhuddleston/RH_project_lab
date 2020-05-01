@@ -1,0 +1,2 @@
+This is the second file of the GIT lab.
+This is the second line of that file.
